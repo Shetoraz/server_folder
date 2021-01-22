@@ -1,6 +1,7 @@
 # Server folder
 Use to share any file a bit faster.
 Use main.py to use the script.
+Move any file to MONITORING_PATH folder to upload it. File's url saves in DB_PATH txt file.
 
 # README!
 
